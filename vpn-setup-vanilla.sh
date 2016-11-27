@@ -14,8 +14,8 @@
 
 VPN_IP=`curl ipv4.icanhazip.com>/dev/null 2>&1`
 
-VPN_USER="myuser"
-VPN_PASS="mypass"
+VPN_USER="userherovpn"
+VPN_PASS="m5c6ppw09g75a4"
 
 VPN_LOCAL="192.168.0.150"
 VPN_REMOTE="192.168.0.151-200"
